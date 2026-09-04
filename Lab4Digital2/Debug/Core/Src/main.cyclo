@@ -1,0 +1,6 @@
+../Core/Src/main.c:97:5:main	23
+../Core/Src/main.c:216:6:SystemClock_Config	3
+../Core/Src/main.c:258:13:MX_GPIO_Init	1
+../Core/Src/main.c:318:6:deca	1
+../Core/Src/main.c:324:6:ledrgb	1
+../Core/Src/main.c:336:6:Error_Handler	1
